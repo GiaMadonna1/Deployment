@@ -1,0 +1,44 @@
+* {
+    background-color: #1CBCE8;
+    color: black;
+}
+
+h1 {
+    background-color: #6AEB36;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 25px;
+}
+
+nav a {
+    color: black;
+    font-size: 1.5em;
+}
+
+nav a:hover {
+    color:#6AEB36;
+    text-decoration: none;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+}
+
+main {
+    margin-right: 20px;
+    margin-left: 20px;
+}

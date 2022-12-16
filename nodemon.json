@@ -1,0 +1,10 @@
+{
+    "verbose": true,
+    "ignore": [
+        ".git",
+        ".gitignore",
+        "README.md",
+        "node_modules/**/node_modules"
+    ],
+    "ext": "js,jsx,json"
+}
